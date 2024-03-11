@@ -2,6 +2,8 @@
 
 Este é um projeto de Pokedex, onde os usuários podem explorar uma lista de Pokémons e suas informações básicas, como número, nome, tipos e imagens.
 
+#### Para acessar site clique aqui: https://charlescamumila.github.io/JavaScript-PokeDex/
+
 ## Funcionalidades
 
 - Visualização de lista de Pokémons.
